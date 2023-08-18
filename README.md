@@ -3,8 +3,8 @@ The project aims to develop an interactive calculator using web technologies suc
 
 The calculator features a clean and intuitive design, making it easy to use for users of all levels. It supports essential mathematical operations like addition, subtraction, multiplication, and division.
 Key Features:
-User-friendly interface: The calculator will have a clean and intuitive user interface, making it easy for users to perform calculations.
-Basic operations: It will support essential mathematical operations such as addition, subtraction, multiplication, and division.
-Dynamic calculation: The calculator will update the result in real-time as the user inputs numbers or performs operations.
-Clear functionality: It will include a clear button to remove the entered numbers or reset the calculator.
-Error handling: The calculator will handle common errors, such as dividing by zero or entering invalid characters.
+1. User-friendly interface: The calculator will have a clean and intuitive user interface, making it easy for users to perform calculations.
+2. Basic operations: It will support essential mathematical operations such as addition, subtraction, multiplication, and division.
+3. Dynamic calculation: The calculator will update the result in real-time as the user inputs numbers or performs operations.
+4. Clear functionality: It will include a clear button to remove the entered numbers or reset the calculator.
+5. Error handling: The calculator will handle common errors, such as dividing by zero or entering invalid characters.
