@@ -2,6 +2,7 @@
 The project aims to develop an interactive calculator using web technologies such as HTML, CSS, and JavaScript. The calculator provides a user-friendly interface for performing basic mathematical operations. Users can input numbers, perform calculations, and see the results dynamically.
 
 The calculator features a clean and intuitive design, making it easy to use for users of all levels. It supports essential mathematical operations like addition, subtraction, multiplication, and division.
+
 Key Features:
 1. User-friendly interface: The calculator will have a clean and intuitive user interface, making it easy for users to perform calculations.
 2. Basic operations: It will support essential mathematical operations such as addition, subtraction, multiplication, and division.
